@@ -7,6 +7,7 @@
 
 ### Skil map
 | Tecknique | Skill |
+|:----------|------:|
 | Html | 〇 |
 | javascript | 〇 |
 | php | 〇 |
