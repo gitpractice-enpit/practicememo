@@ -2,5 +2,20 @@
 
 - mast15
 - トロンボーンをふきます。
-- 音楽はよく聴きます。特にRADWIMPSとASIAN KUNG-FU GENERATIONが好きです。
+- 音楽が好きです。特にRADWIMPSとASIAN KUNG-FU GENERATIONが好きです。
 - ゲームが好きです。
+
+### Skill Map
+| Technique | Skill |
+|:----------|------:|
+| C | ○ |
+| Ruby | △ |
+| Python | △ |
+| MySQL | △ |
+| Git/Github | △ |
+| PHP | △ |
+| HTML/CSS | ◯ |
+
+
+◯:使える
+△:使ったことある
